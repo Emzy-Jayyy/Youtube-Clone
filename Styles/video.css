@@ -25,6 +25,11 @@
     line-height: 20px;
 }
 
+.video-title a {
+    text-decoration: none;
+    color: black;
+}
+
 .video-author,
 .video-stats {
     font-size: 12px;
